@@ -1,20 +1,7 @@
-{
-    "name": "it025/it025",
-    "description": "This a demo for build composer packagist .",
-    "type": "library",
-    "license": "MIT",
-     "authors": [
-        {
-            "name": "it025"
-        }
-    ],
-    "minimum-stability": "dev",
+{    
     "require": {
     	 "php": ">=5.3.0",
         "it025/it025" : "dev-master"
-    },
-     "repositories": {
-        "packagist" : true
     },
     "autoload": {
         "psr-4": {
