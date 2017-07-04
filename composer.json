@@ -8,7 +8,7 @@
             "name": "it025"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
     	 "php": ">=5.3.0",
         "it025/it025" : "dev-master"
